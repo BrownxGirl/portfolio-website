@@ -80,7 +80,9 @@ header a{
 /* header a:hover{
     color: rgb(167, 89, 102);
 } */
-
+.work{
+    height: auto;
+}
 span{
  display: none;
  
@@ -110,7 +112,7 @@ span{
   }
   
   .sidenav a:hover {
-    color: rgb(167, 89, 102);
+    color: rgb(255, 255, 255);
   }
   
   .sidenav .closebtn {
@@ -708,8 +710,8 @@ work */
 /* footer */
 
 footer{
-    height: 8vh;
-    width: 100%;
+    height: auto;
+    width: auto;
     text-align: center;
     background-color: rgb(167, 89, 102);
     color: #fafafa;
