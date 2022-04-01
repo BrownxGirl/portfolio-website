@@ -709,9 +709,11 @@ work */
 
 footer{
     height: 8vh;
+    width: 100%;
     text-align: center;
     background-color: rgb(167, 89, 102);
     color: #fafafa;
+    bottom: 0;
 }
 
 footer div{
