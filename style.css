@@ -525,6 +525,7 @@ html { font-size:100%; }
 
     header{
         flex-direction: row-reverse;
+        padding-top: 25px;
     }
 
     span{
@@ -619,7 +620,9 @@ padding: 0;
     margin-top: 5rem;
 }
 #mchDesign h1{
-    width: 90%;
+    width: 80%;
+    margin: auto;
+
 }
 
 #mchDesign p{
