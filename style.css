@@ -648,6 +648,35 @@ width: 90%;
 align-self: center;
 }
 
+#mlabelDesign{
+
+    margin-top: 5rem;
+}
+#labelDesign h1{
+    width: 90%;
+}
+
+#labelDesign p{
+    width: 90%;
+}
+#labelDesign ul{
+
+   padding: 0;
+}
+
+
+
+.labelDesign{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+.labelDesign .item{
+    flex-direction: column;
+    margin-top: 1rem;
+}
+
 }
 @media (min-width: 640px) { body {font-size:1rem;} }
 @media (min-width:960px) { body {font-size:1.2rem;
